@@ -1,0 +1,126 @@
+[2024-10-22 18:46:07] Mode Turbo activé.
+[2024-10-22 18:46:10] Mode Turbo désactivé.
+[2024-10-22 18:46:11] Mode Turbo activé.
+[2024-10-22 18:46:12] Mode Turbo désactivé.
+[2024-10-22 18:46:13] Bot démarré.
+[2024-10-22 18:46:13] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:13] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:13] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:13] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:13] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:13] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:13] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:13] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:13] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:13] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:13] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:13] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:13] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:13] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:13] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:13] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:13] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:13] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:13] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:13] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:13] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:13] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:14] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:14] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:14] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:14] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:14] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:14] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:14] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:14] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:14] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:14] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:14] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:14] Aucune lettre détectée, réessayez.
+[2024-10-22 18:46:14] Bot arrêté.
+[2024-10-22 18:46:14] Erreur OCR : C:\Program Files\Tesseract-OCR\tesseract.exe is not installed or it's not in your PATH. See README file for more information.
+[2024-10-22 18:46:14] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:07] Mode Turbo activé.
+[2024-10-22 18:57:08] Mode Turbo désactivé.
+[2024-10-22 18:57:09] Bot démarré.
+[2024-10-22 18:57:09] Lettres OCR détectées : 
+[2024-10-22 18:57:09] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:09] Lettres OCR détectées : 
+[2024-10-22 18:57:09] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:09] Lettres OCR détectées : 
+[2024-10-22 18:57:09] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:09] Lettres OCR détectées : 
+[2024-10-22 18:57:09] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:09] Lettres OCR détectées : 
+[2024-10-22 18:57:09] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:10] Lettres OCR détectées : 
+[2024-10-22 18:57:10] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:10] Lettres OCR détectées : 
+[2024-10-22 18:57:10] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:10] Lettres OCR détectées : 
+[2024-10-22 18:57:10] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:10] Lettres OCR détectées : 
+[2024-10-22 18:57:10] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:10] Lettres OCR détectées : 
+[2024-10-22 18:57:10] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:10] Lettres OCR détectées : 
+[2024-10-22 18:57:10] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:10] Lettres OCR détectées : 
+[2024-10-22 18:57:10] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:11] Lettres OCR détectées : 
+[2024-10-22 18:57:11] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:11] Lettres OCR détectées : 
+[2024-10-22 18:57:11] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:11] Lettres OCR détectées : 
+[2024-10-22 18:57:11] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:11] Lettres OCR détectées : 
+[2024-10-22 18:57:11] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:11] Lettres OCR détectées : 
+[2024-10-22 18:57:11] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:11] Lettres OCR détectées : 
+[2024-10-22 18:57:11] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:11] Lettres OCR détectées : 
+[2024-10-22 18:57:11] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:12] Lettres OCR détectées : 
+[2024-10-22 18:57:12] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:12] Lettres OCR détectées : 
+[2024-10-22 18:57:12] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:12] Lettres OCR détectées : 
+[2024-10-22 18:57:12] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:12] Lettres OCR détectées : 
+[2024-10-22 18:57:12] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:12] Lettres OCR détectées : 
+[2024-10-22 18:57:12] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:12] Bot arrêté.
+[2024-10-22 18:57:12] Lettres OCR détectées : 
+[2024-10-22 18:57:12] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:18] Mode Turbo activé.
+[2024-10-22 18:57:20] Bot démarré.
+[2024-10-22 18:57:20] Lettres OCR détectées : 
+[2024-10-22 18:57:20] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:20] Lettres OCR détectées : 
+[2024-10-22 18:57:20] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:20] Lettres OCR détectées : 
+[2024-10-22 18:57:20] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:20] Lettres OCR détectées : 
+[2024-10-22 18:57:20] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:20] Lettres OCR détectées : 
+[2024-10-22 18:57:20] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:20] Lettres OCR détectées : 
+[2024-10-22 18:57:20] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:21] Lettres OCR détectées : 
+[2024-10-22 18:57:21] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:21] Lettres OCR détectées : 
+[2024-10-22 18:57:21] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:21] Lettres OCR détectées : 
+[2024-10-22 18:57:21] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:21] Lettres OCR détectées : 
+[2024-10-22 18:57:21] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:21] Lettres OCR détectées : 
+[2024-10-22 18:57:21] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:21] Lettres OCR détectées : 
+[2024-10-22 18:57:21] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:21] Bot arrêté.
+[2024-10-22 18:57:21] Lettres OCR détectées : 
+[2024-10-22 18:57:21] Aucune lettre détectée, réessayez.
+[2024-10-22 18:57:22] Mode Turbo désactivé.
